@@ -1,0 +1,6 @@
+name: FishOnlyFish
+version: 1.0
+main: com.axevillager.fishonlyfish.Main
+author: Axe_Villager
+website:
+description: Makes you only able to fish fish.
